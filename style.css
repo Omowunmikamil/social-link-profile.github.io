@@ -14,7 +14,7 @@ body {
     width: 300px;
     padding-top: 20px;
     padding-bottom: 30px;
-    margin: 10% auto 5%;
+    margin: 10% auto;
     background-color: hsl(0, 0%, 12%);
     border-radius: 16px;
 }
@@ -32,19 +32,22 @@ img {
 
 h1 {
     color: hsl(0, 0%, 100%);
-    font-weight: normal;
+    font-size: 24px;
+    font-weight: 600;
     margin-top: 8px;
 }
 
 span {
     color: hsl(75, 94%, 57%);
     font-size: 12px;
+    font-weight: 400;
 }
 
 p {
-    color: hsl(0, 0%, 70%);
+    color: hsl(0, 0%, 80%);
     margin: 20px 0 15px;
     font-size: 12px;
+    font-weight: 400;
 }
 
 button {
