@@ -105,4 +105,4 @@ I need to study more on CSS pseudo-class selector for better knowledge and under
 
 ## Acknowledgments
 
-Frontend Mentor - for making this challenge possible.
+Frontend Mentor - for making this challenge available.
