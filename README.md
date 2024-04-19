@@ -22,7 +22,7 @@
 ### Links
 
 - Solution URL: [Check out my solution](https://www.frontendmentor.io/solutions/component-article-button-and-responsive-mobile-design-DbT1zZpkW6)
-- Live Site URL: [Check out my live site](https://omowunmikamil.github.io/recipe_page.github.io/)
+- Live Site URL: [Check out my live site](https://omowunmikamil.github.io/social-link-profile.github.io/)
 
 ## My process
 
