@@ -1,0 +1,71 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+}
+
+body {
+    background-color: hsl(0, 0%, 8%);
+    font-size: 14px;
+}
+
+.component {
+    width: 300px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    margin: 10% auto 5%;
+    background-color: hsl(0, 0%, 12%);
+    border-radius: 16px;
+}
+
+.header, article {
+    text-align: center;
+}
+
+img {
+    width: 60px;
+    border-radius: 60px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+h1 {
+    color: hsl(0, 0%, 100%);
+    font-weight: normal;
+    margin-top: 8px;
+}
+
+span {
+    color: hsl(75, 94%, 57%);
+    font-size: 12px;
+}
+
+p {
+    color: hsl(0, 0%, 70%);
+    margin: 20px 0 15px;
+    font-size: 12px;
+}
+
+button {
+    background-color: hsl(0, 0%, 20%);
+    width: 80%;
+    border: none;
+    border-radius: 6px;
+    padding: 10px;
+    margin-bottom: 10px;
+    color: hsl(0, 0%, 100%);
+}
+
+button:hover {
+    background-color: hsl(0, 0%, 70%);
+    color: hsl(0, 0%, 12%);
+}
+
+
+/* Mobile */
+@media screen and (max-width: 375px) {
+    .component {
+        margin: 20% auto;
+    }
+}
